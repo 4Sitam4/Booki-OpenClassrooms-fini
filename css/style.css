@@ -249,7 +249,8 @@ body {
   width: 100%;
   object-fit: cover;
 }
-.heb-panelswhite-card-description__title, .heb-panelswhite-card-description__subtitle {
+.heb-panelswhite-card-description__title,
+.heb-panelswhite-card-description__subtitle {
   font-size: 10px;
   margin: 0;
   padding: 5px 0 0 8px;
@@ -313,7 +314,8 @@ body {
   width: 100%;
   object-fit: cover;
 }
-.pop-panelswhite-card-description__title, .pop-panelswhite-card-description__subtitle {
+.pop-panelswhite-card-description__title,
+.pop-panelswhite-card-description__subtitle {
   font-size: 10px;
   margin: 0;
   padding: 5px 0 0 8px;
@@ -588,7 +590,8 @@ et celle de droite à droite */
     overflow: hidden;
     width: 35%;
   }
-  .pop-panelswhite-card-description__title, .pop-panelswhite-card-description__subtitle {
+  .pop-panelswhite-card-description__title,
+  .pop-panelswhite-card-description__subtitle {
     font-size: 17px;
     padding: 5px 0 0 12px;
   }
@@ -709,7 +712,9 @@ et celle de droite à droite */
   }
 
   /* diminution de la hauteur pour les images de "activités" */
-  .activites-cards-panel:nth-child(1), .activites-cards-panel:nth-child(2), .activites-cards-panel:nth-child(3), .activites-cards-panel:nth-child(4), .activites-cards-panel:nth-child(5), .activites-cards-panel:nth-child(6) {
+  .activites-cards-panel:nth-child(1), .activites-cards-panel:nth-child(2),
+  .activites-cards-panel:nth-child(3), .activites-cards-panel:nth-child(4),
+  .activites-cards-panel:nth-child(5), .activites-cards-panel:nth-child(6) {
     height: 190px;
   }
 }
